@@ -4,13 +4,13 @@
 
 <h2 align='center'>Sobre mim</h2>
 
-<p>Sou aluno do 2º Técninco em Desenvolvimento de Sistemas na instituição Escola Estadual de Educação Profissional Francisca Neilyta Carneiro Albuquerque. Atualmente venho me aprofundando em Desenvolvimento Web com foco no Back-End, mas tenho interesse em outras áreas.</p>
+<p>Tenho 17 anos e sou aluno do 2º Técninco em Desenvolvimento de Sistemas na instituição Escola Estadual de Educação Profissional Francisca Neilyta Carneiro Albuquerque. Atualmente venho me aprofundando em Desenvolvimento Web com foco no Back-End, mas tenho interesse em outras áreas.</p>
 
 ---
 
 <div align="center">
 
-<h3 >Habilidades que tenho conhecimento</h3>
+<h3 >Habilidades</h3>
 <img src="https://icongr.am/devicon/html5-original.svg?size=40&color=currentColor" alt="HTML5"> 
 <img src="https://icongr.am/devicon/css3-original.svg?size=40&color=currentColor" alt="CSS3">
 <img src="https://icongr.am/devicon/python-original.svg?size=40&color=currentColor" alt="PYTHON">
@@ -31,15 +31,13 @@
 
 ---
 
-<h3 align="center">Meu Objetivos este ano</h3>
+<h3 align="center">Meu Objetivos</h3>
 
-<li>Dominar a linguagem JavaScript</li>
+<li>Dominar a linguagem JavaScript e aprender o typescript</li>
 
-<li>Aprender alguns frameworks Frontend como React, Vue entre outros.</li>
+<li>Aprender alguns frameworks back-end, como o Express, NestJS, AdonisJS, Django, entre outros</li>
 
 <li>Melhorar a escrita dos meus códigos</li> 
-
-<li>Se aprofundar mais no Backend com python para a criação de API’s junto com o framework Django</li>
 
 <br>
 <br>
