@@ -8,7 +8,19 @@
 
 <h2 align='center'>Sobre mim</h2>
 
-<p>Tenho 17 anos e sou aluno do 2º Técnico em Desenvolvimento de Sistemas na Escola Estadual de Educação Profissional Francisca Neilyta Carneiro Albuquerque. Atualmente venho me aprofundando em Desenvolvimento Web com foco no Back-End, mas tenho interesse em estudar outras técnologias direcionadas ao front-end.👨‍💻</p>
+<ul>
+   <li>Tenho 17 anos</li>
+   <li>
+     Sou aluno do 3º Técnico em Desenvolvimento de Sistemas         
+</li>
+   <li>
+     Venho me aprofundando em Desenvolvimento Web
+   </li>
+   <li>Minha primeira linguagem foi o Python </li>
+   
+</ul
+
+
 
 ---
 
