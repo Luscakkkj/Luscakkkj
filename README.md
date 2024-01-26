@@ -14,7 +14,7 @@
      Sou aluno do 3º Técnico em Desenvolvimento de Sistemas 👨‍💻       
 </li>
    <li>
-     sou brabo em Brawlhalla 🎮
+     Sou brabo em Brawlhalla 🎮
    </li>
 </ul
 
