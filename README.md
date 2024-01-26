@@ -9,15 +9,13 @@
 <h2 align='center'>Sobre mim</h2>
 
 <ul>
-   <li>Tenho 17 anos</li>
+   <li>Tenho 17 anos 🎂</li>
    <li>
-     Sou aluno do 3º Técnico em Desenvolvimento de Sistemas         
+     Sou aluno do 3º Técnico em Desenvolvimento de Sistemas 👨‍💻       
 </li>
    <li>
-     Venho me aprofundando em Desenvolvimento Web
+     sou brabo em Brawlhalla 🎮
    </li>
-   <li>Minha primeira linguagem foi o Python </li>
-   
 </ul
 
 
