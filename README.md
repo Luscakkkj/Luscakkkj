@@ -35,14 +35,14 @@
 <h3>Learning Skills</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,firebase,typescript,react" />
+    <img src="https://skillicons.dev/icons?i=typescript,react,vue" />
   </a>
 </p>
 
 <h3>Interests</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=adonis,graphql,mongodb,aws" />
+    <img src="https://skillicons.dev/icons?i=adonis,aws,docker" />
   </a>
 </p>
 
