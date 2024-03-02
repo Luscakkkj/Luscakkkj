@@ -6,6 +6,15 @@
     </a>
 </div>
 
+</br>
+<div align='center'>
+
+<p>
+    Opa eu sou o Lucas 😁, sou técnico em Desenvolvimento de Sistemas.
+</p>
+
+</div>
+
 <div align="center">
 
 <h3 >Skills</h3>
