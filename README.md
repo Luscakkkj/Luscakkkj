@@ -6,22 +6,6 @@
     </a>
 </div>
 
-<h2 align='center'>Sobre mim</h2>
-
-<ul>
-   <li>Tenho 17 anos 🎂</li>
-   <li>
-     Sou aluno do 3º Técnico em Desenvolvimento de Sistemas 👨‍💻       
-</li>
-   <li>
-     Sou brabo em Brawlhalla 🎮
-   </li>
-</ul
-
-
-
----
-
 <div align="center">
 
 <h3 >Skills</h3>
