@@ -1,57 +1,30 @@
-<!--APRESENTAÇÃO-->
+![Banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-<div align='center'>
-    <a href="https://git.io/typing-svg">
-        <img align='center' src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=44F700&background=000000&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Lucas++%3A)" alt="Typing SVG" />
-    </a>
-</div>
+# Eae, sou o Lucas <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Saluting%20Face.png" alt="Saluting Face" width="40" align='center'/>
 
-</br>
-<div align='center'>
+Opa, seja bem-vindo.
 
-<p>
-    Opa eu sou o Lucas 😁, sou técnico em Desenvolvimento de Sistemas.
-</p>
+sou amante de programação e estudande da instituição EEEP Francisa Neilyta, onde estou atualmente cursando meu último ano no curso técnico de Desenvolvimento de Sistemas.
 
-</div>
+Procuro sempre aprender coisas novas e tô sempre fazendo algum projeto por aí. 
 
-<div align="center">
+##### Me siga
 
-<h3 >Skills</h3>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,express,sequelize,mysql" />
-  </a>
-</p>
 
-<h3>Learning Skills</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,react,vue" />
-  </a>
-</p>
-
-<h3>Interests</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=adonis,aws,docker" />
-  </a>
-</p>
-
-</div>
-<!--===================================================================-->
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/lucaspgomes_/)
 
 ---
 
+### Minhas Skills <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Nerd%20Face.webp" alt="Nerd Face" width="30" align='center'/> 
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,styledcomponents,vue,tailwind,nodejs,ts,adonis,express,mysql,postgres,docker&theme=dark)](https://skillicons.dev)
+ 
+--- 
+<!-- 
+### Principais Projetos <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Alien%20Monster.webp" alt="Alien Monster" width="50" align='center'/> -->
+ 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Luscakkkj&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### Github Status <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Robot.webp" alt="Robot" width="30" align='center'/>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Luscakkkj&show_icons=true&theme=merko&bg_color=040a00" alt="">
-
-<img width="450px" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luscakkkj&layout=compact&hide_border=true&title_color=86d921&text_color=87edb0&bg_color=040a00&hide_progress=false"/>
-
-</div>
+<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luscakkkj&layout=compact&hide_border=false&title_color=5843f9&text_color=87edb0&bg_color=141414&hide_progress=false"/>
