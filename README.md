@@ -4,7 +4,7 @@
 
 Opa, seja bem-vindo.
 
-sou amante de programação e estudande da instituição EEEP Francisa Neilyta, onde estou atualmente cursando meu último ano no curso técnico de Desenvolvimento de Sistemas.
+Sou amante de programação e estudande da instituição EEEP Francisa Neilyta, onde estou atualmente cursando meu último ano no curso técnico de Desenvolvimento de Sistemas.
 
 Procuro sempre aprender coisas novas e tô sempre fazendo algum projeto por aí. 
 
