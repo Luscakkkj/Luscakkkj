@@ -18,7 +18,7 @@ Procuro sempre aprender coisas novas e tô sempre fazendo algum projeto por aí.
 
 ### Minhas Skills <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Nerd%20Face.webp" alt="Nerd Face" width="30" align='center'/> 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind,nodejs,ts,express,mysql,postgres&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,ts,express,mysql,postgres&theme=dark)](https://skillicons.dev)
  
 --- 
 <!-- 
